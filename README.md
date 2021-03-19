@@ -17,7 +17,8 @@ Note:  This scenario is typical in a development install.  It is highly recommen
 ```
 1.  Clone this repo
 2.  cd <updateCertCP4I>\lib
-3.  .\updateCerts.sh
+3.  chmod 755 updateCerts.sh
+4.  .\updateCerts.sh
 ```
 
 ### Important Prerequisites
